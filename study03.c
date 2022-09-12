@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	int a=300;
-	int b=500;
+
+	int a=3;
+	int b=5;
+
 	printf ("%d",a+b);
 	return 0;
 }
